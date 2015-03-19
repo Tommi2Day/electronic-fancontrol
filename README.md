@@ -1,6 +1,9 @@
 # electronic-fancontrol
 AVR based fan control for 5V fans
 
+### project page
+http://tdressler.net/elektronik/luefter/luefter.html (german)
+
 ### Tools
 * code: Bascom http://www.mcselec.com/
 * board: Lochmaster http://www.abacom-online.de/html/lochmaster.html
